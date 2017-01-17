@@ -1,4 +1,4 @@
 sut:
   build: .
-  command: echo "Woot"
+  command: echo "Branch $SOURCE_BRANCH, Test $TEST, Test OK"
   
